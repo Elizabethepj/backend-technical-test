@@ -11,9 +11,9 @@
 
 ## 1. Introducción
 
-Esta es una aplicación sencilla construida con Flask. Está diseñada para manejar la gestión de productos. La API permite a los usuarios realizar varias operaciones relacionadas con productos, tales como obtener una lista de productos y procesar datos.
+Esta es una aplicación sencilla construida con Flask. Está diseñada para manejar la gestión de productos. La API permite a los usuarios realizar varias operaciones relacionadas con productos, tales como obtener una lista de productos.
 
-En esta aplicación se usan los conceptos presentados por la empresa en el reto técnico. 
+En esta aplicación se usan los conceptos presentados en el reto técnico. Hay que considerar que en esta aplicación se hace una simulación de los datos de los clientes. En un entorno de trabajo se debe realizar la conexión a la base de datos. También es importante mencionar que se crea un archivo con variables de entorno llamado .env que no es usado y que se presenta como ejemplo en relación con la pregunta número 8.
 
 **Instrucciones:**
 
@@ -75,12 +75,12 @@ A continuación se muestra la estructura del proyecto:
 /backend-technical-test
 │
   ├──src
-        ├──aap.py
-        ├──error_handler.py
-        ├──.env
-        ├── README.md
-        ├──requirements.txt
-        ├──.gitignore
+    │   ├──aap.py
+    │   ├──error_handler.py
+    │   ├──.env
+    │   ├── README.md
+    │   ├──requirements.txt
+    │   ├──.gitignore
 
 ## 4. Conclusión
 
